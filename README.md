@@ -53,3 +53,7 @@ Jika Anda ingin **melihat browser bergerak secara langsung**, Anda bisa merubah 
    ```python
    headless = False  # Ubah ke False jika ingin melihat browser berjalan
    ```
+## Berikut Hasil Execute Test Case 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9b5d808-b4d1-4b99-bbc8-a5d90bf81373" />
+
+   
