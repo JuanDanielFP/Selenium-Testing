@@ -1,4 +1,4 @@
-# Automation Testing - Selenium (Exercise 3-4)
+# Automation Testing - Selenium
 
 Proyek ini berisi *script* otomatisasi pengujian (*Automation Testing*) menggunakan bahasa pemrograman **Python** dan **Selenium WebDriver**. Pengujian dilakukan pada website *e-commerce* demo: [SauceDemo](https://www.saucedemo.com/).
 
